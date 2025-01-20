@@ -1,1 +1,1 @@
-say-hello: console.log('Hello World!');
+say-hello: Hello, World!;
